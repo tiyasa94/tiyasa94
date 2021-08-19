@@ -6,7 +6,7 @@ I have secured 92.3% marks in the 10th standard in 2014 and 93.4% marks (PCM) in
 ### Skills
 Languages : Python, C<br/>  Framework : Tensorflow, PyTorch <br/> Libraries and tools : NumPy, Pandas, Matplotlib, SciPy, NLTK, Keras, Sklearn, Networkx <br/>  Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods <br/>
 ### How to reach me
-Known on internet as tiyasa94
+My LinkedIn profile : [Tiyasa Mukherjee](https://www.linkedin.com/in/tiyasa-mukherjee-4165271aa/)
 <!--
 **tiyasa94/tiyasa94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
