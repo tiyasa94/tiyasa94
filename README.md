@@ -4,6 +4,7 @@ I am currently preparing myself to build a strong knowledge-base on Data Science
 ### My background 
 I have secured 92.3% marks in the 10th standard in 2014 and 93.4% marks (PCM) in the 12th standard in 2016 from WBBSE and WBCHSE respectively. I am graduated from Jadavpur University, Kolkata in Mathematics(Hons.) (2016-2019 batch) with 80.17% marks and post-graduated from Indian Association for the Cultivation of Science, Kolkata in Mathematics and Computing (Computer Science major)(2019-2021 batch) with CGPA 9.1. 
 ### Skills
+Mathematics : Linear Algebra, Abstract Algebra, Statistics, Probability, Mathematical Modeling, Numerical Analysis<br/>
 Languages : Python, C<br/>  Framework : Tensorflow, PyTorch <br/> Libraries and tools : NumPy, Pandas, Matplotlib, SciPy, NLTK, Keras, Sklearn, Networkx <br/>  Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods <br/>
 ### How to reach me
 My LinkedIn profile : [Tiyasa Mukherjee](https://www.linkedin.com/in/tiyasa-mukherjee-4165271aa/)
