@@ -1,24 +1,46 @@
- ![hello](https://user-images.githubusercontent.com/74978788/130126908-378e054b-d344-40a1-9c40-bc1044d8f985.gif)
-### I'm Tiyasa!
-I am currently preparing myself to build a strong knowledge-base on Data Science, Machine Learning and Deep Learning techniques. I am learning about different statistical tools to analyse data in a better way, as well as I am practiciing hands-on machine learning and deep learning techniques in different domains like natural language processing, image classification and so forth. I am looking forward to apply my domain knowledge on various real world problems as it introduces more challenges to work with.
-### My background 
-I have secured 92.3% marks in the 10th standard in 2014 and 93.4% marks (PCM) in the 12th standard in 2016 from WBBSE and WBCHSE respectively. I am graduated from Jadavpur University, Kolkata in Mathematics(Hons.) (2016-2019 batch) with 80.17% marks and post-graduated from Indian Association for the Cultivation of Science, Kolkata in Mathematics and Computing (Computer Science major)(2019-2021 batch) with CGPA 9.1. 
-### Skills
-Mathematics : Linear Algebra, Abstract Algebra, Statistics, Probability, Mathematical Modeling, Numerical Analysis<br/>
-Languages : Python, C<br/>  Framework : Tensorflow, PyTorch <br/> Libraries and tools : NumPy, Pandas, Matplotlib, SciPy, NLTK, Keras, Sklearn, Networkx <br/>  Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods <br/>
-### How to reach me
-My LinkedIn profile : [Tiyasa Mukherjee](https://www.linkedin.com/in/tiyasa-mukherjee-4165271aa/)
-<!--
-**tiyasa94/tiyasa94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Tiyasa Mukherjee. I explore the intersection of imagination and technology to drive innovation in AI.
 
-Here are some ideas to get you started:
+► 3+ years of experience in Generative AI, Machine Learning, NLP, Deep Learning, and Data Analytics.
+► Recognized for leading innovation, solving complex challenges, and driving impactful solutions for clients and organizations.
 
-- 🔭 I’m currently working on...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ..Her,she
-- ⚡ Fun fact: ...
--->
+CAREER HIGHLIGHTS
+----------------------
+★ Winner of the Star Awards at Accenture for innovation and driving measurable business value.
+►  Pioneered Generative AI adoption at Accenture by researching and developing a proof of concept that opened new business opportunities in an emerging technology space.
+►  Delivered impactful solutions across Growth & Strategy, Tech Development, and Communications & Media teams at Accenture through data science and analytics.
+►  Recognized by IBM leadership for dedication and excellence in client-centric AI innovations.
+
+AREAS OF EXPERTISE
+-----------------------
+► Generative AI & LLMs
+► AI Governance & Responsible AI
+► Machine Learning & NLP
+► Deep Learning Solutions
+► Data Engineering & Visualization
+
+TECHNICAL SKILLS
+--------------------
+► Programming Languages: Python, SQL, R
+► Libraries & Frameworks: LangChain, TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy, Hugging Face, Large Language Models
+► Tools: IBM WatsonX, Snowflake, ElasticSearch, Tableau, MS-Excel, RShiny, Ollama, Neo4j, Swagger API 
+► Methodologies: Relational & Vector Database Management, ETL, FastAPI/RestAPI call & testing, Prompt Engineering & Tuning, Machine Learning, Statistical Data Analysis,, Hypothesis Testing, Exploratory Data Analysis, Deep Learning
+► Cloud Platforms: IBM Cloud, AWS
+
+CERTIFICATIONS
+-----------------
+► AWS Certified Cloud Practitioner (Valid until Jan 2026) – Amazon Web Services
+► Mathematical Foundations of Machine Learning – Udemy
+► watsonx.governance Technical Sales Advanced – IBM
+► watsonx.ai Technical Sales Advanced & Intermediate – IBM
+► Generative AI for Code with watsonx Code Assistant – IBM
+► Data Science and MLOps Technical Sales Intermediate – IBM
+► Deep Learning Specialization – DeepLearning.AI
+► Google Data Analytics Certificate – Coursera
+► ISI Summer Workshop on Data Analytics – ISI
+
+EDUCATION
+------------
+► M.S. in Mathematics & Computing, Indian Association for the Cultivation of Science
+► B.Sc. in Mathematics, Jadavpur University
+
+I am passionate about leveraging cutting-edge technologies to push the boundaries of AI, creating solutions that bridge human creativity and machine intelligence.
