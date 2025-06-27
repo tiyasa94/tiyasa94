@@ -1,46 +1,39 @@
-I am Tiyasa Mukherjee. I explore the intersection of imagination and technology to drive innovation in AI.
+# 👋 Hi, I'm Tiyasa Mukherjee
 
-► 3+ years of experience in Generative AI, Machine Learning, NLP, Deep Learning, and Data Analytics.
-► Recognized for leading innovation, solving complex challenges, and driving impactful solutions for clients and organizations.
+🎯 AI/ML Engineer | 🧠 Generative AI | 🤖 LLMs | 📊 Data Scientist | 🌐 Watsonx | 🎓 IIIT Bangalore
 
-CAREER HIGHLIGHTS
-----------------------
-★ Winner of the Star Awards at Accenture for innovation and driving measurable business value.
-►  Pioneered Generative AI adoption at Accenture by researching and developing a proof of concept that opened new business opportunities in an emerging technology space.
-►  Delivered impactful solutions across Growth & Strategy, Tech Development, and Communications & Media teams at Accenture through data science and analytics.
-►  Recognized by IBM leadership for dedication and excellence in client-centric AI innovations.
+---
 
-AREAS OF EXPERTISE
------------------------
-► Generative AI & LLMs
-► AI Governance & Responsible AI
-► Machine Learning & NLP
-► Deep Learning Solutions
-► Data Engineering & Visualization
+🔍 **About Me**  
+I’m an AI Engineer passionate about building scalable Generative AI systems, intelligent agents, and applied ML workflows. With hands-on experience in Retrieval-Augmented Generation (RAG), multimodal AI, and agentic systems, I specialize in solving real-world problems with LLMs and automation.
 
-TECHNICAL SKILLS
---------------------
-► Programming Languages: Python, SQL, R
-► Libraries & Frameworks: LangChain, TensorFlow, PyTorch, Scikit-learn, Keras, Pandas, NumPy, Hugging Face, Large Language Models
-► Tools: IBM WatsonX, Snowflake, ElasticSearch, Tableau, MS-Excel, RShiny, Ollama, Neo4j, Swagger API 
-► Methodologies: Relational & Vector Database Management, ETL, FastAPI/RestAPI call & testing, Prompt Engineering & Tuning, Machine Learning, Statistical Data Analysis,, Hypothesis Testing, Exploratory Data Analysis, Deep Learning
-► Cloud Platforms: IBM Cloud, AWS
+---
 
-CERTIFICATIONS
------------------
-► AWS Certified Cloud Practitioner (Valid until Jan 2026) – Amazon Web Services
-► Mathematical Foundations of Machine Learning – Udemy
-► watsonx.governance Technical Sales Advanced – IBM
-► watsonx.ai Technical Sales Advanced & Intermediate – IBM
-► Generative AI for Code with watsonx Code Assistant – IBM
-► Data Science and MLOps Technical Sales Intermediate – IBM
-► Deep Learning Specialization – DeepLearning.AI
-► Google Data Analytics Certificate – Coursera
-► ISI Summer Workshop on Data Analytics – ISI
+🛠️ **Tech Stack**
+- **Languages**: Python, SQL, C, R
+- **LLMs**: LLaMA, Mistral, GPT, Gemini
+- **Frameworks**: LangChain, CrewAI, LangGraph, HuggingFace, Watsonx, Ollama, OpenRouter
+- **Tools & Utilities**: Streamlit, Gradio, Flask, FastAPI, Whisper, Tesseract, OpenCV, NLTK, spaCy, PyMuPDF, PDFPlumber
+- **Data Engineering & ETL**: Pandas, Spark, MapReduce, RDS, Sqoop
+- **Databases**: ChromaDB, Milvus, ElasticSearch, Snowflake, MySQL, PostgreSQL
+- **Cloud**: AWS (S3, EC2, RDS), IBM Cloud
+- **Visualization**: Matplotlib, Seaborn, Plotly, Power BI, Tableau
+- **Deployment**: Docker, IBM Cloud CodeEngine, OpenShift
 
-EDUCATION
-------------
-► M.S. in Mathematics & Computing, Indian Association for the Cultivation of Science
-► B.Sc. in Mathematics, Jadavpur University
+---
 
-I am passionate about leveraging cutting-edge technologies to push the boundaries of AI, creating solutions that bridge human creativity and machine intelligence.
+📌 **Featured Projects** *(coming soon)*  
+- 🧾 RAG
+- 📹 Summarizer
+- 🤖 Agentic Workflow Automation
+- 🧾 Code Generation
+- 🧠 NLQ-to-SQL Governance 
+
+
+
+📬 **Let’s Connect**
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tiyasa-mukherjee/)
+- 📝 [Medium](https://medium.com/@tiyasa94)
+- 💼 Open to full-time AI/ML Engineer or Research roles (2025)
+
+⭐ *If you like my work, feel free to star ⭐️ and follow!*
