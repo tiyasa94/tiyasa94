@@ -22,7 +22,7 @@ I’m an AI Engineer passionate about building scalable Generative AI systems, i
 
 ---
 
-📌 **Featured Projects** *(coming soon)*  
+📌 **Featured Projects**  
 - 🧾 RAG
 - 📹 Summarizer
 - 🤖 Agentic Workflow Automation
